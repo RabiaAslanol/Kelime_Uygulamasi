@@ -156,7 +156,7 @@ namespace Kelime_Uygulamasi
                 }
                 else
                 {
-                    MessageBox.Show("Doğru");
+                    MessageBox.Show("Yanlış");
                     ResetCounter(wordID, askedCount);
                 }
             }
